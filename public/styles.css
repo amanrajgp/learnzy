@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+    width: 100%;
+    background-image: url("./background_image.jpg");
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.card{
+    display: inline-table;
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    justify-content: center;
+    margin: 10px;
+}
+button{
+    font-size: 1.2rem;
+    width: 15rem;
+    height: 15rem;
+    margin: 0.5rem ;
+    background-color:#57C5B6;
+}
+
+.login_btn{
+    width: 5rem;
+    height: 3rem;
+    margin: 0.5rem ;
+    font-size:1rem;
+
+}
+h1{
+    font-size: 10px;
+    color: white;
+}
+
+button:hover{
+    background-color:black;
+    color: white;
+}
+
+input{
+    width: 10rem;
+    height: 2rem;
+    margin: 0.5rem ;
+    font-size:1rem;
+
+}
+label{
+    color: white;
+    font-size: 2rem;
+}
+
